@@ -1,7 +1,18 @@
-h1{
-
+body{
+	size: 15px;
 }
 select{
 	padding-right: 110px;
 	border: 1px solid #4CAF50
+}
+span{
+	color:red;
+	font-weight:bold;
+}
+p{
+	font-weight: bold;
+}
+.f-div{
+	margin: auto;
+	padding: 10px;
 }
